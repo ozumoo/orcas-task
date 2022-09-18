@@ -1,4 +1,4 @@
-Hello Dears from Ocras. 
+### Hello Dears from Ocras. 
 
 This is the dockerized version from the task.
 
@@ -36,14 +36,11 @@ docker-compose exec php php artisan test
 
 ```
 
-### Notes:
-
-- if you faced an error related to mysql when running docker ... just remove all content inside `mysql` folder and leave it empty then run it again 
-
 
 ### Postman collection 
 
 All the APIs are in the collection.
 
 Just import this collection into POSTMAN
+
 https://www.getpostman.com/collections/1fd35fab58cd260682d8
